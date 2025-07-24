@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Whispers of the Wild",
+    "price": 0,
+    "category": "Free",
+    "image": "https://static.vecteezy.com/system/resources/previews/001/217/308/non_2x/animals-driving-a-car-vector.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Literary Fiction",
+    "title": "Same Stairs",
+    "price": 400,
+    "category": "Free",
+    "image": "https://marketplace.canva.com/EAGq2agbX2U/1/0/1003w/canva-blue-and-white-watercolor-romance-book-cover-LZSSxg0FLjY.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fantasy",
+    "title": "The Frost Eater",
+    "price": 850,
+    "category": "Free",
+    "image": "https://i.pinimg.com/736x/f0/97/8b/f0978be18c51ec31350254107672d9fd.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Biographical Fiction",
+    "title": "Going Places",
+    "price": 799,
+    "category": "Free",
+    "image": "https://images.template.net/27457/Download-Autobiography-Bookcover-Template.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Horror",
+    "title": "The Lost Kingdom",
+    "price": 499,
+    "category": "Free",
+    "image": "https://marketplace.canva.com/EAFMeB8rJ_Q/2/0/1003w/canva-simple-elegant-young-adult-fantasy-romance-book-cover-OzVp_p_uUIQ.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Self-Help",
+    "title": "Find some JOY",
+    "price": 690,
+    "category": "Free",
+    "image": "https://images-platform.99static.com//F3ipmTIoNpURPISpm6RI6bA3XpU=/78x127:1110x1159/fit-in/500x500/projects-files/122/12217/1221759/13d13622-364e-4955-b68e-5d0e37a887e6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Historical Romance",
+    "title": "Lord Victorians Lady",
+    "price": 899,
+    "category": "Free",
+    "image": "https://bellamediamanagement.com/wp-content/uploads/2021/07/LVF-Historical-70.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Techno-Thriller",
+    "title": "Space",
+    "price": 599,
+    "category": "Free",
+    "image": "https://marketplace.canva.com/EAFPf07xZRU/1/0/1003w/canva-black-mystery-novel-book-cover-qGvBQ0-Q7Lg.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Comic",
+    "title": "BOOM",
+    "price": 399,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/61oQCtWnqGL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Urban Fantasy",
+    "title": "My Dark City",
+    "price": 499,
+    "category": "Free",
+    "image": "https://templates.mediamodifier.com/5dbc29ff92aff1025b75bdf7/urban-city-book-cover-template.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cookbook",
+    "title": "Spice Route Delights",
+    "price": 699,
+    "category": "Free",
+    "image": "https://www.funfoodfrolic.com/wp-content/uploads/2022/08/9781645675402-1-882x1024.jpg"
+  }
+]
